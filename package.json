@@ -1,0 +1,24 @@
+{
+  "name": "workflow-setup",
+  "version": "0.0.1",
+  "description": "workflow setup dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenJoo/workflow-setup.git"
+  },
+  "keywords": [
+    "Workflow",
+    "Git",
+    "Bootstrap"
+  ],
+  "author": "Karen Jo <karenfiksdahlægmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarenJoo/workflow-setup/issues"
+  },
+  "homepage": "https://github.com/KarenJoo/workflow-setup#readme"
+}
